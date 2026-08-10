@@ -14,5 +14,5 @@ Outside research, I'm an ML systems engineer working on LLM inference optimizati
   <h3>Front-end & Mobile</h3>
   <img src="https://skillicons.dev/icons?i=svelte,flutter,tailwind,react,bun" />
   <h3>Back-end & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,aws,grpc,supabase" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp" />
 </div>
