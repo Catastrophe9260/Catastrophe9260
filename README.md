@@ -10,7 +10,7 @@ Outside research, I'm an ML systems engineer working on LLM inference optimizati
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=go,c,java,python,swift,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,triton,c,c++,rust,java,latex,typst" />
   <h3>Front-end & Mobile</h3>
   <img src="https://skillicons.dev/icons?i=svelte,flutter,tailwind,react,bun" />
   <h3>Back-end & Cloud</h3>
