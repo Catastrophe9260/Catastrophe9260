@@ -7,3 +7,12 @@ I'm an ML researcher at CMU interested in neural representation learning and dee
 Right now, my research focuses on analyzing representations learned by deep learning models through the lens of dynamical systems. I'm also working on my own deep learning framework (building a mini Triton-based compiler backend for it at the moment)!
 
 Outside research, I'm an ML systems engineer working on LLM inference optimization.
+
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=go,c,java,python,swift,ts,html,css" />
+  <h3>Front-end & Mobile</h3>
+  <img src="https://skillicons.dev/icons?i=svelte,flutter,tailwind,react,bun" />
+  <h3>Back-end & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,aws,grpc,supabase" />
+</div>
