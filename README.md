@@ -4,6 +4,6 @@
 <br/>
 I'm an ML researcher at CMU interested in neural representation learning and deep learning systems.
 
-Right now, my research focuses on understanding representations learned by deep learning models through the lens of dynamical systems. I also work on contributing to JAX!
+Right now, my research focuses on analyzing representations learned by deep learning models through the lens of dynamical systems. I also work on contributing to JAX!
 
 Outside research, I'm an ML systems engineer working on LLM inference optimization.
